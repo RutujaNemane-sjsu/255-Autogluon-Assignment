@@ -17,7 +17,7 @@ https://colab.research.google.com/drive/1Qo73LlNkRBWEaN_K5eQZtwcKV_QsWFpo?authus
 **Tabular multilabel**:
 https://colab.research.google.com/drive/1jZQcAkEn7Y-wWAVDLvqFR0lLMZIEZO3L?authuser=2
 
-**Tabular-gpu**:
+**Training models with GPU support**:
 https://colab.research.google.com/drive/1IWyW__jZaBCkvvalM6kb2kmSHaZ8Xuas?authuser=2
 
 **Sentiment analysis**:
@@ -25,6 +25,9 @@ https://colab.research.google.com/drive/1OW64w3dSgF7l83UEvh-gWks-NHF-V0lx?authus
 
 **Named entity recognition**:
 https://colab.research.google.com/drive/1jhS8FqPbgq5RnF5AgxHxNz0Nkf8y8Hgs?authuser=2#scrollTo=9e219933
+
+**Finetune foundation models**
+https://colab.research.google.com/drive/10DVn63Pipg_uMj6RO30m9XHyfqHMYo88#scrollTo=9f79a6f4
 
 **Beginner image classifier**:
 https://colab.research.google.com/drive/13P1waeeihUwul-0d2PHrLr_V-zvA9sAh#scrollTo=aa00faab-252f-44c9-b8f7-57131aa8251c
@@ -35,19 +38,19 @@ https://colab.research.google.com/drive/1GJyxKmOdOUvuW3GEpHSVXo6bkncQgwRW#scroll
 **Image object detection**:
 https://colab.research.google.com/drive/1GJyxKmOdOUvuW3GEpHSVXo6bkncQgwRW#scrollTo=5c55bd15
 
-**Text to text**:
+**Text to text semantic matching**:
 https://colab.research.google.com/drive/1qSRwEOAjmAVc9NYEd-QJVtPf9po734UZ#scrollTo=2d2db12c
 
-**multi modal mixed types text columns**
+**Multi modal mixed types text columns**
 https://colab.research.google.com/drive/1169nk5tMzDKreWg_9TicoDLebOen8YPP#scrollTo=72c67048
 
-**Images + text in table**:
+**Multimodal images and text**:
 https://colab.research.google.com/drive/1Wp_g3jyx7e2mdj7ZjIdFkXfcf-uyPonf#scrollTo=nRTQOVg61K8-
 
 **Simple forcasting**:
 https://colab.research.google.com/drive/1JmwZMuArk880fCMXSvkOqX74kp-bzBBX#scrollTo=5fb03059
 
-**Forecasting chronos**:
+**Time series forecasting- Chronos**:
 https://colab.research.google.com/drive/1_gO3UvLDvoHH4-TBX5_Kn9A7WINi0OHt#scrollTo=BrZKldVCLaBb
 
 
