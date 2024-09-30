@@ -20,7 +20,7 @@ Implemented following Low code models using Autogluon in Google Colab:
 | Clip Zero Shot                                   | [Colab Link](https://colab.research.google.com/drive/1GJyxKmOdOUvuW3GEpHSVXo6bkncQgwRW#scrollTo=5c55bd15)     
 | Document Classification                         | [Colab Link](https://colab.research.google.com/drive/10iIyo8qb1Jt5dxB7mvKMsY9U9NWfwyTe#scrollTo=7c43dcaf-0cc7-4b0c-b8d3-87982dabd383)                           |
 | PDF  Classification                             | [Colab Link](https://colab.research.google.com/drive/1JqGUa91X3jlg_6ADaLXL5lzuWz7JxcMr#scrollTo=aa00faab-252f-44c9-b8f7-57131aa8251c)                           |
-| Image Object Detection                           | [Colab Link](https://colab.research.google.com/drive/1GJyxKmOdOUvuW3GEpHSVXo6bkncQgwRW#scrollTo=5c55bd15)                                                     |
+| AutoMM Detection                           | [Colab Link](https://colab.research.google.com/drive/1rcZ2qtflXvPhpC-9r-AZE1K_9UD7g79A?authuser=2#scrollTo=84a147df)                                                     |
 | Text to Text Semantic Matching                   | [Colab Link](https://colab.research.google.com/drive/1qSRwEOAjmAVc9NYEd-QJVtPf9po734UZ#scrollTo=2d2db12c)                                                     |
 | Multi-Modal Mixed Types Text Columns             | [Colab Link](https://colab.research.google.com/drive/1169nk5tMzDKreWg_9TicoDLebOen8YPP#scrollTo=72c67048)                                                     |
 | Multimodal Images and Text                       | [Colab Link](https://colab.research.google.com/drive/1Wp_g3jyx7e2mdj7ZjIdFkXfcf-uyPonf#scrollTo=nRTQOVg61K8-)                                                  |
