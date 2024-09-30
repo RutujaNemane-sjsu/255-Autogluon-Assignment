@@ -5,7 +5,7 @@ Youtube video:
 Implemented following Low code models using Autogluon in Google Colab:
 
 
-| **Model/Task**                                   | **Link**                                                                                                                                                     |
+| **Model**                                   | **Link**                                                                                                                                                     |
 |--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Autogluon Kaggle IEEE Fraud Detection            | [Colab Link](https://colab.research.google.com/drive/1-0lPqceTg1lzPgKXZAw-SJ__-V6h6ta6?authuser=2)                                                              |
 | Tabular Classification                           | [Colab Link](https://colab.research.google.com/drive/140xQksQIRP2fKtdoFM98I4258NOjLptO?authuser=2)                                                             |
