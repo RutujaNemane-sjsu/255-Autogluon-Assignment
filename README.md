@@ -1,6 +1,6 @@
 # 255-Autogluon-Assignment
 
-Youtube video: 
+Youtube video: https://youtu.be/vhUIlOyLIWc
 
 Implemented following Low code models using Autogluon in Google Colab:
 
