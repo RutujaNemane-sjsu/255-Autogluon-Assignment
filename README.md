@@ -15,7 +15,7 @@ Implemented following Low code models using Autogluon in Google Colab:
 | Training Models with GPU Support                 | [Colab Link](https://colab.research.google.com/drive/1IWyW__jZaBCkvvalM6kb2kmSHaZ8Xuas?authuser=2)                                                             |
 | Sentiment Analysis                               | [Colab Link](https://colab.research.google.com/drive/1OW64w3dSgF7l83UEvh-gWks-NHF-V0lx?authuser=2#scrollTo=aa00faab-252f-44c9-b8f7-57131aa8251c)               |
 | Named Entity Recognition                         | [Colab Link](https://colab.research.google.com/drive/1jhS8FqPbgq5RnF5AgxHxNz0Nkf8y8Hgs?authuser=2#scrollTo=9e219933)                                            |
-| Finetune Foundation Models                       | [Colab Link](https://colab.research.google.com/drive/10DVn63Pipg_uMj6RO30m9XHyfqHMYo88#scrollTo=9f79a6f4)                                                      |
+| Finetune Foundation Models                       | [Colab Link](https://colab.research.google.com/drive/1f2RoawvSKbaSzgy6pahf9azAQujBwv00?usp=sharing)                                                      |
 | Beginner Image Classifier                        | [Colab Link](https://colab.research.google.com/drive/13P1waeeihUwul-0d2PHrLr_V-zvA9sAh#scrollTo=aa00faab-252f-44c9-b8f7-57131aa8251c)                          |
 | Clip Zero Shot                                   | [Colab Link](https://colab.research.google.com/drive/1GJyxKmOdOUvuW3GEpHSVXo6bkncQgwRW#scrollTo=5c55bd15)     
 | Document Classification                         | [Colab Link](https://colab.research.google.com/drive/10iIyo8qb1Jt5dxB7mvKMsY9U9NWfwyTe#scrollTo=7c43dcaf-0cc7-4b0c-b8d3-87982dabd383)                           |
